@@ -12,3 +12,4 @@
 # program12: Input the initial height/velocity of a projectile and return max height/drop rate.
 # program13: Display number of NFL championships for a selected team, and number of back-to-back championships.
 # program14-15: Arrays, stock analyzer and golf score card.
+# program16: Create and add boat charters to a list.
