@@ -6,5 +6,5 @@
 # program6: Calculate the distance of a walk.
 # program7: Calculate a car rental charge.
 # program8: Calculate net pay, average pay, total pay, and total pay stubs.
-# program9: 
+# program9: Input catering event parameters and calculate charge for the event.
 # program10: 
