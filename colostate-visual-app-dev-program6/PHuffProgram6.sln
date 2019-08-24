@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PHuffProgram6", "PHuffProgram6.csproj", "{812E2DD1-799F-4300-9096-8E2CDEDEA70D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{812E2DD1-799F-4300-9096-8E2CDEDEA70D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{812E2DD1-799F-4300-9096-8E2CDEDEA70D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{812E2DD1-799F-4300-9096-8E2CDEDEA70D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{812E2DD1-799F-4300-9096-8E2CDEDEA70D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADDE89C4-044D-4D84-8098-824D372B457D}
+	EndGlobalSection
+EndGlobal
