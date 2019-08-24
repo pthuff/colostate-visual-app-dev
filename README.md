@@ -1,5 +1,5 @@
 # program1:  Display a movie's lead actor, lead actress, and director.
-# program2: 
+# program2: Calculate the area and volume of a cylinder.
 # program3: 
 # program4: 
 # program5: 
