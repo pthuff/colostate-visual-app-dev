@@ -1,4 +1,4 @@
-# program1: 
+# program1:  Display a movie's lead actor, lead actress, and director.
 # program2: 
 # program3: 
 # program4: 
